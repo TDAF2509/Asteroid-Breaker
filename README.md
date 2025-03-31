@@ -1,6 +1,9 @@
 # Asteroid-Breaker
 A 2D arcade style shooter game
+
 ![image](https://github.com/user-attachments/assets/e38c4583-3e8f-463e-a13b-e8ae9c6752db)
+
+
 Aim:
 Survive for as long as possible while dodging and destroying Asteroids and enemies
 
@@ -15,12 +18,16 @@ Spacebar - Shoot projectile
 Power Ups:
 
 Shield Orbs defend you for 1 hit
+
 ![image](https://github.com/user-attachments/assets/9d492c51-0ff2-479d-9678-f1276c8ba0c7)
 
 Health Orbs regain a stock of health:
-![image](https://github.com/user-attachments/assets/542e2428-af64-45d7-85d1-d8c98ab18169)
 
-Blaster Orbs enhance the power of the blaster for a period of time
+![image](https://github.com/user-attachments/assets/078c93f8-5a0e-44a3-9abd-dc4bb3f0cf85)
+
+
+Blaster Orbs enhance the power of the blaster for a period of time:
+
 ![image](https://github.com/user-attachments/assets/17c254bd-0bf8-424b-98fe-f476697ca434)
 
 
